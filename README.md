@@ -1,2 +1,2 @@
 # devops-flaskapp-deploy
-![Screenshot from 2024-05-21 16-19-53](https://github.com/user-attachments/assets/b58068e7-f5b8-4466-affc-a218001315ec)
+![Screenshot 2024-08-16 at 15-22-20 ](https://github.com/user-attachments/assets/47e9e47d-de1a-4e98-9ced-c7c59d223047)
